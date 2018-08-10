@@ -6,4 +6,5 @@ Códigos desenvolvidos para a matéria "Algoritmos e Lógica de Programação" d
 - Estruturas de controle de fluxo de execução: seqüência, seleção e repetição;
 - Tipos de dados básicos e estruturados (vetores e registros);
 - Rotinas;
-- Arquivos.
+- Arquivos;
+- Implementação de algorítmos usando uma linguagem de programação.
