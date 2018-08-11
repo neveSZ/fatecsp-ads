@@ -1,4 +1,4 @@
-# IAL002
+# IAL-002
 Códigos desenvolvidos para a matéria "Algoritmos e Lógica de Programação" da FATEC São Paulo.
 
 ## [Ementa](http://www.fatecsp.br/paginas/proj_ped_ads.pdf)
