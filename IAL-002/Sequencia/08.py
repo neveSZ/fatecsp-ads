@@ -1,5 +1,5 @@
 '''
-8. Dado um número real n (n≥0), exibir a potencia n3, 
+8. Dado um número real n (n≥0), exibir a potencia n^3, 
 sem utilizar o operador de potência.
 '''
 
