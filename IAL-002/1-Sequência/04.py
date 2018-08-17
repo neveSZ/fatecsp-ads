@@ -3,5 +3,5 @@
 exibir o dígito mais à esquerda do valor.
 '''
 
-n=int(input("Digite o valor de n: "))
+n=int(input("n: "))
 print(n//1000)

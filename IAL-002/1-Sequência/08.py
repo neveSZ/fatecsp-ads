@@ -3,5 +3,5 @@
 sem utilizar o operador de potência.
 '''
 
-n=int(input("Digite o valor de n: "))
+n=int(input("n: "))
 print(n*n*n)

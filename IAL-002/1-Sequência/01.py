@@ -3,6 +3,6 @@
 calcular e exibir o total a pagar, sabendo que haverá um desconto de 10%.
 '''
 
-preco=float(input("Digite o valor unitario: "))
-quantidade=int(input("Digite a quantidade de pecas: "))
+preco=float(input("valor unitario: "))
+quantidade=int(input("quantidade: "))
 print(preco*quantidade*0.9)
