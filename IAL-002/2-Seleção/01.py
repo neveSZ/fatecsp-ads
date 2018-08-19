@@ -10,4 +10,4 @@ soma=(n-(n//100)*100+(n//100))
 if soma*soma==n:
     print('sim')
 else:
-    print('nao')
+    print('não')
