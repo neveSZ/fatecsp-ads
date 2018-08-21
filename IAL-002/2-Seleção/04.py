@@ -6,9 +6,9 @@ a=float(input("a: "))
 b=float(input("b: "))
 c=float(input("c: "))
 if c<a>b:
-	print(a)
+        print(a)
 else:
         if a<b>c:
-		print(b)
-	else:
+                print(b)
+        else:
                 print(c)
