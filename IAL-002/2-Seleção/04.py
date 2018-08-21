@@ -5,16 +5,10 @@
 a=float(input("a: "))
 b=float(input("b: "))
 c=float(input("c: "))
-if a>=b>=c:
+if c<a>b:
 	print(a)
 else:
-	if a>=c>=b:
-		print(a)
+        if a<b>c:
+		print(b)
 	else:
-		if b>=a>=c:
-			print(b)
-		else:
-			if b>=c>=a:
-				print(b)     
-			else:
-				print(c)
+                print(c)
