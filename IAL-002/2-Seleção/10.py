@@ -11,12 +11,10 @@ m2=int(input("mes: "))
 a2=int(input("ano: "))
 if a1>a2:
     print(d2,m2,a2)
+elif m1>m2:
+    print(d2,m2,a2)
+elif d1>d2:
+    print(d2,m2,a2)
 else:
-    if m1>m2:
-        print(d2,m2,a2)
-    else:
-        if d1>d2:
-            print(d2,m2,a2)
-        else:
-            print(d1,m1,a1)
+    print(d1,m1,a1)
         
