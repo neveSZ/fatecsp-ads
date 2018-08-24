@@ -10,7 +10,7 @@ c=float(input("c: "))
 if(a==b==c):
     print("equilátero")
 else:
-    if(a!=b!=c):
+    if(c!=a!=b!=c):
         print("escaleno")
     else:
         print("isósceles")
