@@ -1,5 +1,5 @@
 '''
-10. Dados números inteiros, exibir a soma deles. A entrada termina com a
+Dados números inteiros, exibir a soma deles. A entrada termina com a
 leitura do número zero.
 '''
 soma = 0
