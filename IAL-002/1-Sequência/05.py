@@ -1,5 +1,5 @@
 '''
-5. Fornecido um número inteiro n (1000≤n≤9999), exibir a soma dos dois dígitos
+Fornecido um número inteiro n (1000≤n≤9999), exibir a soma dos dois dígitos
 à esquerda com os dois dígitos à direita. Exemplo: n = 3689,logo a saída é
 36+98=125.
 '''

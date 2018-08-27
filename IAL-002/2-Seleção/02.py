@@ -1,5 +1,5 @@
 '''
-2. Fornecidos dois números inteiros a e b (a>0 e b>0), verificar se a é
+Fornecidos dois números inteiros a e b (a>0 e b>0), verificar se a é
 divisível por b. Exibir a mensagem ‘divisível’ ou ‘não divisível, conforme o
 caso. Não use o operador de resto.
 '''

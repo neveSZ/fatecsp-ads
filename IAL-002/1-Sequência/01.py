@@ -1,5 +1,5 @@
 '''
-1. Fornecida a quantidade e o preço unitário de determinada peça, calcular e
+Fornecida a quantidade e o preço unitário de determinada peça, calcular e
 exibir o total a pagar, sabendo que haverá um desconto de 10%.
 '''
 

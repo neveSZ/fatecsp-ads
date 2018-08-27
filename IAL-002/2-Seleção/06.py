@@ -1,5 +1,5 @@
 '''
-6. Fornecido os coeficientes de uma equação de segundo grau (com a≠0, ou seja,
+Fornecido os coeficientes de uma equação de segundo grau (com a≠0, ou seja,
 não é necessário verificar a existência da equação), exibir suas raízes.
 
 Obs. (1): Para calcular a raiz quadrada de Δ, utilizar o operador de potência.

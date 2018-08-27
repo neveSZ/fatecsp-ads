@@ -1,5 +1,5 @@
 '''
-4. Fornecido três números reais distintos a, b e c, exibir o maior valor.
+Fornecido três números reais distintos a, b e c, exibir o maior valor.
 '''
 
 a = float(input("a: "))

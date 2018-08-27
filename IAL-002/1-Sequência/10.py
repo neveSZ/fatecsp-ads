@@ -1,5 +1,5 @@
 '''
-10. Fornecido um número real b e um número inteiro e (e≥0), exibir a potencia
+Fornecido um número real b e um número inteiro e (e≥0), exibir a potencia
 de b^e.
 '''
 

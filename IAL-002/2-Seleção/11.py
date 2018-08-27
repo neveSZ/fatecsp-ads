@@ -1,5 +1,5 @@
 '''
-11. Dado um numero inteiro n, exibir o dia da semana correspondente(domingo=1)
+Dado um numero inteiro n, exibir o dia da semana correspondente(domingo=1)
 ou ‘dia inválido’.
 '''
 n = int(input("n: "))

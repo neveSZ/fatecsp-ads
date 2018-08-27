@@ -1,5 +1,5 @@
 '''
-9. Dados os tempos gastos em uma viagem com caminhada, ônibus e metro
+Dados os tempos gastos em uma viagem com caminhada, ônibus e metro
 (em minutos) exibir o tempo total gasto em três unidades: em horas, em minutos
 e em segundos.
 '''

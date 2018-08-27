@@ -1,5 +1,5 @@
 '''
-11. Calcule a nota final de um aluno sabendo que ela é composta da seguinte
+Calcule a nota final de um aluno sabendo que ela é composta da seguinte
 forma: Prova 1 (40%) + Prova 2 (40%) + Trabalhos (20%). Os três valores que
 compõem a nota final serão informados pelo usuário, exiba-a com duas casas
 decimais.

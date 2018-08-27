@@ -1,5 +1,5 @@
 '''
-8. Fornecidos os três segmentos de reta: a, b e c (a>0, b>0 e c>0), verificar
+Fornecidos os três segmentos de reta: a, b e c (a>0, b>0 e c>0), verificar
 se podem formar um triangulo. Exibir a mensagem ‘formam’ ou ‘não formam’,
 conforme o caso.
 '''

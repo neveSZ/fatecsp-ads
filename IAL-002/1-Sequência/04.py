@@ -1,5 +1,5 @@
 '''
-4. Dado um número inteiro n (com quatro dígitos), exibir o dígito mais à
+Dado um número inteiro n (com quatro dígitos), exibir o dígito mais à
 esquerda do valor.
 '''
 

@@ -1,5 +1,5 @@
 '''
-7. Fornecido um número inteiro n (n ≥0),exibir a raiz quadrada desse valor,
+Fornecido um número inteiro n (n ≥0),exibir a raiz quadrada desse valor,
 para tanto utilize o operador de potência (**).
 '''
 

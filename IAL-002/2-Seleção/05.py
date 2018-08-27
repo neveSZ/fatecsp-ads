@@ -1,5 +1,5 @@
 '''
-5. Fornecida uma letra, verificar se é vogal. Exibir ‘vogal’ ou ‘não vogal’,
+Fornecida uma letra, verificar se é vogal. Exibir ‘vogal’ ou ‘não vogal’,
 conforme o caso.
 '''
 

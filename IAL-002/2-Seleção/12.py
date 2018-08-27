@@ -1,5 +1,5 @@
 '''
-12. Fornecidas as áreas de um circulo e de um quadrado, exibir ‘esconde’ se for
+Fornecidas as áreas de um circulo e de um quadrado, exibir ‘esconde’ se for
 possível ocultar completamente o quadrado sob o círculo, ou ‘não esconde’, caso
 contrário (adote π=3,14).
 '''

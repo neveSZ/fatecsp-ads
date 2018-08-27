@@ -1,5 +1,5 @@
 '''
-3. Fornecido um número n e um intervalo fechado de a até  b (a<b), verificar se
+Fornecido um número n e um intervalo fechado de a até  b (a<b), verificar se
 n está no intervalo. Exibir a mensagem ‘no intervalo’ ou ‘fora do intervalo’,
 conforme o caso.
 '''

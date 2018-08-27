@@ -1,5 +1,5 @@
 '''
-9. Fornecidos os três segmentos de reta a, b e c que formam um triângulo,
+Fornecidos os três segmentos de reta a, b e c que formam um triângulo,
 exibir uma mensagem indicando qualo tipo de triângulo que será formado
 (equilátero, isósceles ou escaleno)
 '''
