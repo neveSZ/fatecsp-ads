@@ -1,7 +1,7 @@
 '''
 10. Fornecidas duas datas distintas, exibir qual delas ocorre primeiro. Cada
 data será fornecida em três valores inteiros, onde o primeiro representa o dia,
- o segundo o mês e o terceiro o ano.
+o segundo o mês e o terceiro o ano.
 '''
 print('Data 1')
 d1 = int(input("dia: "))
