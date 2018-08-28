@@ -8,7 +8,6 @@ conforme o caso
 n = int(input('n: '))
 multiplicador = 1
 multiplicacao = 1
-
 while(multiplicacao < n):
     multiplicacao = multiplicador*(multiplicador+1)*(multiplicador+2)
     multiplicador = multiplicador+1
