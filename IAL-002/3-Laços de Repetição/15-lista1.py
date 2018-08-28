@@ -1,13 +1,13 @@
 '''
 Dado um numero inteiro n (n>0), calcular e exibir o maior quadrado menor ou
-igual a n. Exempl: n = 38, o maior quadrado que e menor ou igual a 38 e o 36,
+igual a n. Exemplo: n = 38, o maior quadrado que e menor ou igual a 38 e o 36,
 portanto imprima 36. Nao usar o operador de potenciacao, nenhuma funcao pronta
 e/ou conversao de tipos.
 '''
-menor = 0
-n = int(input('numero: '))
+quadrado = 0
 i = 0
+n = int(input('n: '))
 while(i*i <= n):
-    menor = i*i
+    quadrado = i*i
     i = i+1
-print(menor)
+print(quadrado)
