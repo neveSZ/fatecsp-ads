@@ -5,7 +5,6 @@ divisao)
 Exemplo: Entrada: 13 -> Saida: 1101
 '''
 n = float(input('n: '))
-divisores = 0
 contador = 1
 binario = 0
 while (n/2 > 0):
