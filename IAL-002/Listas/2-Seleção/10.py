@@ -13,8 +13,12 @@ m2 = int(input("mes: "))
 a2 = int(input("ano: "))
 if a1 > a2:
     print(d2, m2, a2)
+elif a2 > a1:
+    print(d1, m1, a1)
 elif m1 > m2:
     print(d2, m2, a2)
+elif m2 > m1:
+    print(d1, m1, a1)
 elif d1 > d2:
     print(d2, m2, a2)
 else:
