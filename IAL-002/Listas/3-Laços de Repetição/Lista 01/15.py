@@ -7,7 +7,9 @@ e/ou conversao de tipos.
 quadrado = 0
 i = 0
 n = int(input('n: '))
-while(i * i <= n):
+while True:
+    if (i * i) > n:
+        print(quadrado)
+        break
     quadrado = i * i
     i = i + 1
-print(quadrado)
