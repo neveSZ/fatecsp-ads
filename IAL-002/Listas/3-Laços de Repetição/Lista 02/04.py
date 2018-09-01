@@ -11,8 +11,7 @@ n = int(input('n: '))
 while (verificador is False and i < n):
     esquerda = (n // i)
     direita = (n % i) // (i / 10)
-    if((esquerda % 2 == 0 and direita % 2 != 0)or
-       (esquerda % 2 != 0 and direita % 2 == 0)):
+    if((esquerda % 2 == 0 and direita % 2 != 0) or (esquerda % 2 != 0 and direita % 2 == 0)):
         verificador = True
     else:
         i = i * 10

@@ -5,7 +5,7 @@ dos valores que são pares e a soma dos que são ímpares.
 par = 0
 impar = 0
 n = int(input("n: "))
-for n in range(n):
+for i in range(n):
     n = int(input("numero: "))
     if n % 2 == 0:
         par = par + n
