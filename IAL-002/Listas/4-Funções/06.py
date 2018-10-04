@@ -3,6 +3,6 @@ def tamanho(n):
     # Retorna: um inteiro com a quantidade de algarismos de n.
     algarismo = 1
     while(n >= 10):
-        n = n//10
+        n = n/10
         algarismo = algarismo+1
     return algarismo
