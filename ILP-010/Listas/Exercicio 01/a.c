@@ -1,7 +1,7 @@
 #include <stdio.h>
 /*a) Crie um programa que leia a base e a altura de um triangulo(valores reais) e
 exiba sua area com duas casas decimais.*/
-int main()
+int main(void)
 {
   float base, altura, area;
   printf("Base: ");

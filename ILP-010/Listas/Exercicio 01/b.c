@@ -3,7 +3,7 @@
 de uma fabrica e exiba o total de sabonetes recebidos, sabendo que a cada 100
 sabonetes ganha-se 5 sabonetes de brinde.
 obs: sem if e sem lacos*/
-int main()
+int main(void)
 {
   int qtd, brinde;
   printf("Quantidade de sabonetes comprados: ");
