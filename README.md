@@ -1,7 +1,7 @@
 # Análise e Desenvolvimento de Sistemas - Tarde
 Códigos desenvolvidos durante o curso "Análise e Desenvolvimento de Sistemas" da FATEC São Paulo
 
-## Matérias
+## Disciplinas
 - [Algoritmos e Lógica de Programação](IAL-002/)
 - [Linguagem de Programação](ILP-010/)
 
