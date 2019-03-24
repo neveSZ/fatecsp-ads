@@ -1,0 +1,1 @@
+    printf(" %c ", charValue(msg[i] / 10));
