@@ -1,4 +1,4 @@
-int esquerdaPar(int n) {
+void esquerdaPar(int n) {
   // Receber um numero inteiro n e exibir 'sim', caso o digito mais a esquerda
   // seja par, ou 'nao', caso contrario. Use os operadores de divisao e resto.
   if (n < 10) {
