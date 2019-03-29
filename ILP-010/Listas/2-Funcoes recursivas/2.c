@@ -9,6 +9,14 @@ int divisaoInteira(int p, int q) {
   return divisaoInteira(p - q, q) + 1;
 }
 
+// b) Receber dois numeros inteiros a e b (a >= 0 e b >= 0) e devolver o
+// resultado do produto de a por b.
+int multiplicacao(int a, int b) {
+  if (b == 0)
+    return 0;
+  return a + multiplicacao(a, b - 1);
+}
+
 // c) Receber um numero real b (b > 0) e um numero inteiro n (n >= 0) e devolver
 // o resultado de b elevado a n.
 float potencia(float b, int n) {
