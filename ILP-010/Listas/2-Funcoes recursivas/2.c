@@ -1,6 +1,14 @@
 // 2. Desenvolver as funcoes abaixo utilizando recursao, ou seja, serao funcoes
 // recursivas.
 
+// a) Receber dois numeros inteiros p e q (p >= 0 e q > 0) e devolver o
+// resultado da divisao inteira de p por q.
+int divisaoInteira(int p, int q) {
+  if (p < q)
+    return 0;
+  return divisaoInteira(p - q, q) + 1;
+}
+
 // c) Receber um numero real b (b > 0) e um numero inteiro n (n >= 0) e devolver
 // o resultado de b elevado a n.
 float potencia(float b, int n) {
