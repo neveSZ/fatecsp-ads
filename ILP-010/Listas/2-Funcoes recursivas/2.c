@@ -65,6 +65,14 @@ void converteBinario(int n) {
   }
 }
 
+// k) Receber um inteiro n n(n >= 1) e devolver a soma dos n primeiros termos da
+// serie: 1+(1/2)+(1/3)+(1/4)+(1/5)+..+(1/n).
+float somatorio(int n) {
+  if (n == 1)
+    return 1.00;
+  return somatorio(n - 1) + (1.00 / n);
+}
+
 // m) Receber um numero inteiro n e exibir 'sim', caso o digito mais a esquerda
 // seja par, ou 'nao', caso contrario. Use os operadores de divisao e resto.
 void esquerdaPar(int n) {
