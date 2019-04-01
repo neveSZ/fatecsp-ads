@@ -54,6 +54,17 @@ void inverteDigitos(int n) {
   }
 }
 
+// g) Receber um inteiro n (n >= 0), em base decimal, e exibir o correspondente
+// em base binaria.
+void converteBinario(int n) {
+  if (n < 2)
+    printf("%d", n);
+  else {
+    converteBinario(n / 2);
+    printf("%d", n % 2);
+  }
+}
+
 // m) Receber um numero inteiro n e exibir 'sim', caso o digito mais a esquerda
 // seja par, ou 'nao', caso contrario. Use os operadores de divisao e resto.
 void esquerdaPar(int n) {
