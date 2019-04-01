@@ -25,6 +25,14 @@ float potencia(float b, int n) {
   return b * potencia(b, n - 1);
 }
 
+// d) Receber um numero inteiro n (n >= 0) e determinar a sua quantidade de
+// digitos.
+int digitos(int n) {
+  if (n < 10)
+    return 1;
+  return digitos(n / 10) + 1;
+}
+
 // m) Receber um numero inteiro n e exibir 'sim', caso o digito mais a esquerda
 // seja par, ou 'nao', caso contrario. Use os operadores de divisao e resto.
 void esquerdaPar(int n) {
