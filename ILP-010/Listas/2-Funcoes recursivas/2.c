@@ -33,6 +33,17 @@ int digitos(int n) {
   return digitos(n / 10) + 1;
 }
 
+// e) Dado um numero inteiro n (n >= 0), exibir seus digitos separados um por
+// um.
+void separaDigitos(int n) {
+  if (n < 10)
+    printf("%d", n);
+  else {
+    separaDigitos(n / 10);
+    printf("%d ", n % 10);
+  }
+}
+
 // m) Receber um numero inteiro n e exibir 'sim', caso o digito mais a esquerda
 // seja par, ou 'nao', caso contrario. Use os operadores de divisao e resto.
 void esquerdaPar(int n) {
