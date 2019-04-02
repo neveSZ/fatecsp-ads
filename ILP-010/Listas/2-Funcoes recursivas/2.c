@@ -90,6 +90,14 @@ void converteHexa(int n) {
   }
 }
 
+// j) Receber um inteiro n (n >= 1) e devolver o enesimo termo correspondente da
+// sequencia de Fibonacci (1, 1, 2, 3, 5, 8, 13, 21, 34, ...).
+int fibonacci(int n) {
+  if (n < 3)
+    return 1;
+  return fibonacci(n - 1) + fibonacci(n - 2);
+}
+
 // k) Receber um inteiro n n(n >= 1) e devolver a soma dos n primeiros termos da
 // serie: 1+(1/2)+(1/3)+(1/4)+(1/5)+..+(1/n).
 float somatorio(int n) {
