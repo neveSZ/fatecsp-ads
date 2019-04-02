@@ -65,6 +65,17 @@ void converteBinario(int n) {
   }
 }
 
+// h) Receber um numero inteiro n (n >= 0) em base decimal, e exibir o
+// correspondente em base octal.
+void converteOctal(int n) {
+  if (n < 8)
+    printf("%d", n);
+  else {
+    converteOctal(n / 8);
+    printf("%d", n % 8);
+  }
+}
+
 // k) Receber um inteiro n n(n >= 1) e devolver a soma dos n primeiros termos da
 // serie: 1+(1/2)+(1/3)+(1/4)+(1/5)+..+(1/n).
 float somatorio(int n) {
