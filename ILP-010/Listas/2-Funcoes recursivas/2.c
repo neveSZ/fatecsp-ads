@@ -106,6 +106,14 @@ float somatorio(int n) {
   return somatorio(n - 1) + (1.00 / n);
 }
 
+// l) Receber um numero natural n e devolver 1, se o numero for impar, ou 0,
+// caso contrario. Usar apenas adicao e/ou subtracao.
+int impar(int n) {
+  if (n < 2)
+    return n;
+  return impar(n - 2);
+}
+
 // m) Receber um numero inteiro n e exibir 'sim', caso o digito mais a esquerda
 // seja par, ou 'nao', caso contrario. Use os operadores de divisao e resto.
 void esquerdaPar(int n) {
