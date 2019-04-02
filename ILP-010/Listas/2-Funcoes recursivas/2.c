@@ -125,3 +125,10 @@ void esquerdaPar(int n) {
   } else
     esquerdaPar(n / 10);
 }
+
+// n) Dada uma string s devolver a quantidade de caracteres de conteudo.
+int qtdChar(char s[], int i) {
+  if (s[i] == '\0')
+    return 0;
+  return qtdChar(s, ++i) + 1;
+}
