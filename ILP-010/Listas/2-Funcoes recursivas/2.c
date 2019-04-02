@@ -132,3 +132,11 @@ int qtdChar(char s[], int i) {
     return 0;
   return qtdChar(s, ++i) + 1;
 }
+
+// o) Dada duas strings a e b, faca com que b, seja uma copia de a.
+void copiaString(char a[], char b[], int i) {
+  b[i] = a[i];
+  if (a[i] == '\0')
+    return;
+  copiaString(a, b, ++i);
+}
