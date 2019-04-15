@@ -20,3 +20,6 @@
 
 // g) Resulta 1 se ch for uma letra ou 0 caso contrario;
 #define letra(ch) (ch > 64 && ch < 91) || (ch > 96 && ch < 123) ? 1 : 0
+
+// h) Resulta 1 se ch for um digito binario ou 0 caso contrario;
+#define binario(ch) ch == 48 || ch == 49 ? 1 : 0
