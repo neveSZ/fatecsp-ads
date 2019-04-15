@@ -1,0 +1,1 @@
+// 1. Escreva as saidas das instrucoes a seguir:
