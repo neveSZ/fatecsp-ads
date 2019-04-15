@@ -14,3 +14,6 @@
 
 // e) Resulta 1 se ch for um digito hexadecimal ou 0 caso contrario;
 #define hexa(ch) (ch > 64 && ch < 71) || (ch > 47 && ch < 58) ? 1 : 0
+
+// f) Resulta 1 se ch for um digito decimal ou 0 caso contrario;
+#define decimal(ch) ch > 47 && ch < 58 ? 1 : 0
