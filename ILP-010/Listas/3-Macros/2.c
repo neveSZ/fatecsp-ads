@@ -23,3 +23,6 @@
 
 // h) Resulta 1 se ch for um digito binario ou 0 caso contrario;
 #define binario(ch) ch == 48 || ch == 49 ? 1 : 0
+
+// i) MAX(x, y) - REsulta o maior entre x e y.
+#define MAX(x, y) x > y ? x : y
