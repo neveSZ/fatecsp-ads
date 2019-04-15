@@ -17,3 +17,6 @@
 
 // f) Resulta 1 se ch for um digito decimal ou 0 caso contrario;
 #define decimal(ch) ch > 47 && ch < 58 ? 1 : 0
+
+// g) Resulta 1 se ch for uma letra ou 0 caso contrario;
+#define letra(ch) (ch > 64 && ch < 91) || (ch > 96 && ch < 123) ? 1 : 0
