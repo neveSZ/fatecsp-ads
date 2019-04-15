@@ -11,3 +11,6 @@
 
 // d) Resulta 1 se ch for uma letra minuscula ou 0 caso contrario;
 #define minuscula(ch) ch > 96 && ch < 123 ? 1 : 0
+
+// e) Resulta 1 se ch for um digito hexadecimal ou 0 caso contrario;
+#define hexa(ch) (ch > 64 && ch < 71) || (ch > 47 && ch < 58) ? 1 : 0
