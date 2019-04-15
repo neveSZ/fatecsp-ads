@@ -8,3 +8,6 @@
 
 // c) Resulta 1 se ch for uma letra maiuscula ou 0 caso contrario;
 #define maiuscula(ch) ch > 64 && ch < 91 ? 1 : 0
+
+// d) Resulta 1 se ch for uma letra minuscula ou 0 caso contrario;
+#define minuscula(ch) ch > 96 && ch < 123 ? 1 : 0
