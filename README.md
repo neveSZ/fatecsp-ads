@@ -4,10 +4,15 @@ Códigos desenvolvidos durante o curso "Análise e Desenvolvimento de Sistemas" 
 ## Disciplinas
 
 - ### 1º Semestre (Tarde)
-  - [Algoritmos e Lógica de Programação](IAL-002/)
+  - [Algoritmos e Lógica de Programação](IAL-002/) - Akamine
 
 - ### 2º Semestre (Tarde)
-  - [Linguagem de Programação [DESCONTINUADO]](ILP-010/)
+  - [Linguagem de Programação [DESCONTINUADO]](ILP-010/) - Akamine
+
+- ### 3º Semestre (Noite)
+  - [Programação Orientada a Objetos](ILP-007/) - Ângela/Leandro
+
+
   
 
 ## Links Úteis
