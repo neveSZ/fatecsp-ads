@@ -1,13 +1,14 @@
-# Análise e Desenvolvimento de Sistemas - Tarde
+# Análise e Desenvolvimento de Sistemas - Tarde/Noite
 Códigos desenvolvidos durante o curso "Análise e Desenvolvimento de Sistemas" da FATEC São Paulo.
 
 ## Disciplinas
 
-- ### 1º Semestre
+- ### 1º Semestre (Tarde)
   - [Algoritmos e Lógica de Programação](IAL-002/)
 
-- ### 2º Semestre
-  - [Linguagem de Programação](ILP-010/)
+- ### 2º Semestre (Tarde)
+  - [Linguagem de Programação [DESCONTINUADO]](ILP-010/)
+  
 
 ## Links Úteis
 - [Projeto Pedagógico](http://www.fatecsp.br/paginas/proj_ped_ads.pdf)
